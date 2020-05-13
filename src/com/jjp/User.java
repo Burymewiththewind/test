@@ -6,4 +6,5 @@ package com.jjp;
  */
 public class User {
     private String name;
+    private String pwd;//测试
 }
